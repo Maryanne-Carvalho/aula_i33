@@ -1,15 +1,16 @@
 body{
     background-color: #483d8b;
-    display: flex;
-    justify-content: center;
+
+
 }
 
 .box{
+    margin: auto;
     width: 200px;
     height: 200px;
     border: 2px dashed #000000;
     padding: 10px;
-    margin: 15px;
+
 }
 
 .cor_01{
@@ -17,5 +18,6 @@ body{
 }
 
 .cor_02{
+    margin-top: 10px;
     background-color: purple;
 }
