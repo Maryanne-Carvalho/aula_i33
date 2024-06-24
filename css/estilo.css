@@ -1,5 +1,7 @@
 body{
     background-color: #483d8b;
+    display: flex;
+    justify-content: center;
 }
 
 .box{
