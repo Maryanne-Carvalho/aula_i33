@@ -8,8 +8,14 @@ body{
     width: 200px;
     height: 200px;
     border: 2px dashed #000000;
+    padding: 10px;
+    margin: 15px;
 }
 
 .cor_01{
     background-color: #fa8072;
+}
+
+.cor_02{
+    background-color: purple;
 }
